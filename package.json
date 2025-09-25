@@ -1,7 +1,7 @@
 {
   "name": "@protorians/parameters",
-  "version": "0.0.2",
-  "description": "",
+  "version": "0.0.5",
+  "description": "Lightweight, type-safe parameter containers for TypeScript/JavaScript apps.",
   "type": "module",
   "main": "./build/index.cjs",
   "module": "./build/index.mjs",
