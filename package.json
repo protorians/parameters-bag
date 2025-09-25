@@ -1,6 +1,6 @@
 {
   "name": "@protorians/parameters",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "type": "module",
   "main": "./build/index.cjs",
@@ -15,7 +15,8 @@
   },
   "scripts": {
     "dev": "tsup --watch",
-    "build": "tsup"
+    "build": "tsup",
+    "push:version": "pnpm changeset add && pnpm changeset version"
   },
   "engines": {
     "node": ">=22"
