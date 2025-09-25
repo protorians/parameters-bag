@@ -1,7 +1,5 @@
-### Node template
-build
-~cjs
-~esm
+/build
+
 # Logs
 logs
 *.log
