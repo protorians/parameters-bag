@@ -20,6 +20,10 @@
   "engines": {
     "node": ">=22"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/protorians/parameters-bag.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
